@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>91-mailsent.json</file>
+        <file>3539-delete.json</file>
+        <file>4384-check-animation.json</file>
+        <file>4386-connection-error.json</file>
+        <file>4431-success.json</file>
+    </qresource>
+</RCC>

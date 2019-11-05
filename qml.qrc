@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AppInternal.qml</file>
+        <file>ButtonLine.qml</file>
+        <file>LottieButtonsAreInHere.qml</file>
+        <file>LottieButton.qml</file>
+    </qresource>
+</RCC>
